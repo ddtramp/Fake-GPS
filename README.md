@@ -22,7 +22,6 @@ see:
 * [XCode 9 Location Similation Went Missing](https://stackoverflow.com/questions/47129247/xcode-9-1-location-simulation-went-missing)
 * [gaode map picker]( http://lbs.amap.com/console/show/picker )
 * [follow](https://www.cnblogs.com/cocoajin/p/6108600.html)
-* []
 ----
 
 by jack
